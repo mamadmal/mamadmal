@@ -1,8 +1,7 @@
-
-
 ## 🚀 About Me
-
-[![email](https://img.shields.io/badge/js-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)](https://muhammadalidadi.ir) 
+<div style="display: inline-block; margin-right: 10px;">
+  [![email](https://img.shields.io/badge/js-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)](https://muhammadalidadi.ir)
+</div>
 
 [![email](https://img.shields.io/badge/react-5356FF?style=for-the-badge&logo=react&logoColor=black)](https://muhammadalidadi.ir) 
 
